@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@byted-apaas/baas-sdk-node": "1.0.9",
+    "@byted-apaas/faas-sdk-node": "1.0.6",
+    "@byted-apaas/server-common-node": "1.0.24",
+    "@byted-apaas/server-sdk-node": "1.1.8"
+  }
+}
